@@ -18,15 +18,13 @@
     </head>
     <body id="page-top">
 
-        <!-- Masthead-->
         <header class="masthead">
             <div class="container">
-                <div class="masthead-subheading">Mesto gde outsource počinje</div>
-                <div class="masthead-heading text-uppercase">Dobrodošli!</div>
-                <a class="btn btn-primary btn-xl text-uppercase" href="#services">Opširnije</a>
+                {{-- <div class="masthead-subheading">Mesto gde outsource počinje</div> --}}
+                <div class="masthead-heading">Katalog zahteva</div>
+                {{-- <a class="btn btn-primary btn-xl text-uppercase" href="#services">Katalog zahteva</a> --}}
             </div>
         </header>
-        {{-- <body> --}}
 
         @include('partials.nav')
 

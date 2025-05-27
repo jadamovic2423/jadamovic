@@ -12,6 +12,8 @@
                         <li class="nav-item"><a class="nav-link" href="#portfolio">Katalog</a></li>
                         <li class="nav-item"><a class="nav-link" href="#about">O nama</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Kontakt</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{route('register')}}">Registruj se</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{route('login')}}">Uloguj se</a></li>
                     </ul>
                 </div>
             </div>
